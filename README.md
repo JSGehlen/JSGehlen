@@ -106,16 +106,6 @@ HTML                     4 repos             ███░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
----
-
-<a href="https://github.com/JSGehlen">
-    <img align="left" alt="JSGehlen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jsgehlen&count_private=true&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github.com/JSGehlen">
-    <img align="left" alt="JSGehlen's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSGehlen&layout=compact" />
-</a>
-
-
 [website]: https://jeremygehlen.com
 [instagram]: https://www.instagram.com/jeremygehlen/
 [linkedin]: https://www.linkedin.com/in/jeremy-gehlen/
