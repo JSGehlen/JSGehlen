@@ -2,7 +2,7 @@
 
 ## I'm a Developer! 
 - 🔭  My work can be found at [jeremygehlen.com][website]!
-- 🌱  I’m continuesly improving my skillset
+- 🌱  I’m continuously improving my skillset
 - 👯  I’m looking to collaborate with other developers
 - 🌲  Fun fact: I like to wonder the woods with my fiancee
 
