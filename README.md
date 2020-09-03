@@ -19,9 +19,9 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com//jessegeh/birding-club/pull/5) in [jessegeh/birding-club](https://github.com//jessegeh/birding-club)
-2. 💪 Opened PR [#1](https://github.com//jessegeh/teinipaa-website/pull/1) in [jessegeh/teinipaa-website](https://github.com//jessegeh/teinipaa-website)
-3. 🎉 Merged PR [#2](https://github.com//JSGehlen/react-markdown-blog/pull/2) in [JSGehlen/react-markdown-blog](https://github.com//JSGehlen/react-markdown-blog)
+1. 💪 Opened PR [#7](https://github.com//jessegeh/birding-club/pull/7) in [jessegeh/birding-club](https://github.com//jessegeh/birding-club)
+2. 💪 Opened PR [#5](https://github.com//jessegeh/birding-club/pull/5) in [jessegeh/birding-club](https://github.com//jessegeh/birding-club)
+3. 💪 Opened PR [#1](https://github.com//jessegeh/teinipaa-website/pull/1) in [jessegeh/teinipaa-website](https://github.com//jessegeh/teinipaa-website)
 4. 🎉 Merged PR [#1](https://github.com//JSGehlen/advanced-css-course_Nexter/pull/1) in [JSGehlen/advanced-css-course_Nexter](https://github.com//JSGehlen/advanced-css-course_Nexter)
 5. 🎉 Merged PR [#1](https://github.com//JSGehlen/advanced-css-course_Natours/pull/1) in [JSGehlen/advanced-css-course_Natours](https://github.com//JSGehlen/advanced-css-course_Natours)
 <!--END_SECTION:activity-->
