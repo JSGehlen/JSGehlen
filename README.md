@@ -16,15 +16,7 @@
 <br />
 
 
-### ⚡️ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/jessegeh/birding-club/pull/14) in [jessegeh/birding-club](https://github.com/jessegeh/birding-club)
-2. 💪 Opened PR [#9](https://github.com/jessegeh/birding-club/pull/9) in [jessegeh/birding-club](https://github.com/jessegeh/birding-club)
-3. 💪 Opened PR [#7](https://github.com/jessegeh/birding-club/pull/7) in [jessegeh/birding-club](https://github.com/jessegeh/birding-club)
-4. 💪 Opened PR [#5](https://github.com/jessegeh/birding-club/pull/5) in [jessegeh/birding-club](https://github.com/jessegeh/birding-club)
-5. 💪 Opened PR [#1](https://github.com/jessegeh/teinipaa-website/pull/1) in [jessegeh/teinipaa-website](https://github.com/jessegeh/teinipaa-website)
-<!--END_SECTION:activity-->
+### ⚡️ Recently Used Languages
 
 <!--START_SECTION:waka-->
 ```text
